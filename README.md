@@ -5,7 +5,7 @@
 - 📫 You can connect me through [LinkedIn](https://www.linkedin.com/in/kshitij-3166951bb)
 
 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kshitij98-CPp)
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kshitij98-Cpp)
 
 <!---
 the-next-ceo/the-next-ceo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
